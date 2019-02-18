@@ -579,6 +579,14 @@ describe('Subscription', () => {
       done()
     })
   })
+
+  it('can retreive a subscription invoice', done => {
+    subscription.invoice((err, invoice) => {
+      demand(err).not.exist()
+      invoice.invoice_number.must.be.a.number()
+      done()
+    })
+  })
 })
 
 describe.skip('Coupons', () => {
