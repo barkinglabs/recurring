@@ -1,7 +1,7 @@
 {
   "name": "@barkinglabs/recurring",
   "description": "a recurly v2 api client for node.js",
-  "version": "2.17.6",
+  "version": "2.17.7",
   "bugs": "https://github.com/barkinglabs/recurring/issues",
   "contributors": [
     "Matt Lorey <mattlorey@gmail.com>",
@@ -18,10 +18,10 @@
     "async-iterators": "0.2.2",
     "bluebird": "3.5.0",
     "data2xml": "1.2.5",
-    "debug": "3.0.0",
-    "lodash": "4.17.4",
+    "debug": "4.1.1",
+    "lodash": "4.17.14",
     "qs": "6.5.0",
-    "request": "2.81.0",
+    "request": "2.88.0",
     "throttled-request": "0.1.1",
     "uuid": "3.1.0",
     "xml2js": "0.4.18"
@@ -35,7 +35,7 @@
     "eslint-plugin-standard": "2.0.1",
     "ghooks": "1.3.2",
     "isparta": "4.0.0",
-    "mocha": "3.1.2",
+    "mocha": "6.1.4",
     "must": "0.13.4",
     "nock": "9.0.14",
     "validate-commit-msg": "2.8.2"
