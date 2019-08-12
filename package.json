@@ -1,7 +1,7 @@
 {
   "name": "@barkinglabs/recurring",
   "description": "a recurly v2 api client for node.js",
-  "version": "2.17.8",
+  "version": "2.17.9",
   "bugs": "https://github.com/barkinglabs/recurring/issues",
   "contributors": [
     "Matt Lorey <mattlorey@gmail.com>",
