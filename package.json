@@ -52,7 +52,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ceejbot/recurring.git"
+    "url": "git://github.com/barkinglabs/recurring.git"
   },
   "scripts": {
     "lint": "eslint './{lib,test}/**/*.js'",
